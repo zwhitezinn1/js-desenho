@@ -1,8 +1,15 @@
  - **SEJA BEM VINDO** 💜
+### Descrição
+- Bem-vindo ao Desenho com JS, um projeto super simples e divertido criado por Thamabily e Kawe Vicente! É um projeto que permite criar desenhos de forma automática apenas movendo o mouse pela tela. Não tem nada de complicado – basta mover o mouse e ver a mágica acontecer!
 
-- Esse projeto foi feito baseado nas aulas do [Alura](https://www.alura.com.br)
-- Projeto bem simples apenas para conhecer mais sobre a linguagem JavaScript
-- Espero que gostem 💜
+### Funcionalidades
+- Desenho Automático: Passe o mouse pela tela para começar a desenhar instantaneamente.
+- Sem Configurações: Simplicidade total – sem necessidade de escolher cores ou ajustar tamanhos de pincel.
+
+### Tecnologias
+- HTML5: Para o canvas onde você desenha.
+- CSS3: Para a aparência da página.
+- JavaScript: Para a lógica do desenho. 
 
 Membros:
   ```
